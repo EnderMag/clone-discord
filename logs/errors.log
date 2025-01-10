@@ -1,0 +1,5 @@
+[07.12.2024 23:22:41] DiscordAPIError: Corps de formulaire non valide
+topic: Le sujet du salon contient au moins un mot qui n'est pas autorisé.
+    at C:\Users\mathys\Desktop\Backup-main\node_modules\discord.js-selfbot-v11\src\client\rest\RequestHandlers\Sequential.js:85:15
+    at C:\Users\mathys\Desktop\Backup-main\node_modules\snekfetch\src\index.js:215:21
+    at process.processTicksAndRejections (node:internal/process/task_queues:105:5)

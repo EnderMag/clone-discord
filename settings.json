@@ -1,0 +1,6 @@
+{
+    "token": "votre token",
+	"originalGuildId": "serveur à copier",
+    "newGuildId": "serveur où coller",
+    "newGuildAdminRoleId": "rôle admin dans le serveur où coller"
+}
